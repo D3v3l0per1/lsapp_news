@@ -1,0 +1,15 @@
+.navbar {
+  height: 4.5rem;
+}
+
+.navbar-item img {
+  max-height: 2.8rem;
+}
+
+.is-muted {
+  color: $grey-light !important;
+}
+
+a.is-muted:hover {
+  color: $grey !important;
+}
